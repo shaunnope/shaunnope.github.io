@@ -1,6 +1,8 @@
 body {
     margin: 60px auto;
     width: 70%;
+    /*display: grid;
+    grid-template: 10% 1fr 5% / 5% 1fr; */
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -23,18 +25,26 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p {
+p{
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
+
+#repoList ul li {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+    /*list-style: none;*/
+}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
