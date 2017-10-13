@@ -1,9 +1,18 @@
 body {
     margin: 60px auto;
     width: 70%;
-    /*display: grid;
-    grid-template: 10% 1fr 5% / 5% 1fr; */
 }
+
+.container{
+  display: grid;
+  grid-template-columns: 1fr 20%;
+  grid-column-gap: 2em;
+}
+
+.lMargin ul{
+  font-size: 0.8em;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
