@@ -1,13 +1,13 @@
 body {
-    margin: 60px auto;
+    margin: auto auto;
     width: 70%;
-    /* min-width: 320px; */
+    min-width: 320px;
 
 }
 
 .btn-block {
   width:60%;
-  /* min-width:300px; */
+  min-width:200px;
   margin: auto auto
 }
 
