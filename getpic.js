@@ -1,4 +1,4 @@
-var name = 'shaunnnope';
+var name = 'shaunnope';
 $.ajax({
 type: 'GET',
  url: 'https://www.instagram.com/' + name,
