@@ -1,10 +1,8 @@
 title: ShaunNope, Maybe Perhaps
-email: seanyap123@gmail.com
 description: A collection of all things Sean
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: www.shaunnope.com
 url: https://www.shaunnope.com
-author: Sean Yap
 
 remote_theme: jekyll/minima
 plugins:
@@ -23,6 +21,11 @@ minima:
       platform: linkedin,
       user_url: "https://www.linkedin.com/in/zhan-hao-sean-yap",
       title: zhan-hao-sean-yap
+      }
+    - {
+      platform: email,
+      user_url: "mailto:seanyap123@gmail.com",
+      title: seanyap123@gmail.com
       }
 
 

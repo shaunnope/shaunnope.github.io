@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Bopped It!"
+date:   2022-09-20 00:56:48 +0800
+categories: archive linkedin
+tags: [fpga, design, project]
+---
+
+Read more: [LinkedIn](https://www.linkedin.com/posts/zhan-hao-sean-yap_design-project-fpga-activity-6922552891056558080-Ayt3?utm_source=share)
+
+---
+
+{% include embeds/bitop.html %}
