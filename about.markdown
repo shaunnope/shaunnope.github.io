@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hello!
-
-I am an aspiring software developer, currently studying at the Singapore University of Technology and Design. With a keen interest in artificial intelligence, data science and web development, I enjoy the process of developing solutions that meld technology with visual content.
+## Experiences
+- [Bifrost AI](https://bifrost.ai) | AI Intern (Feb 2023 - May 2023)  
+Gained experience in various stages of Machine Learning Operations ([MLOps](https://en.wikipedia.org/wiki/MLOps)), including data collection, model training, and deployment. Developed internal tools for exploratory data analysis and model evaluation.
 
 ## Projects
 - [BitOp!](https://github.com/shaunnope/comp_struc_1d) | *Lucid* (Apr 2022)  
