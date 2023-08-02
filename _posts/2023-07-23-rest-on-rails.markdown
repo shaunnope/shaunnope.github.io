@@ -6,6 +6,7 @@ categories: blog
 tags: [ruby, rest-api, rails, docker]
 ---
 Held from 4 July to 23 July 2023, the backend development mini challenge hosted by the Center for Strategic Infocomm Technologies (CSIT) was a great opportunity to learn more about the Ruby on Rails framework. The challenge was to create a REST API to read from a Mongo Atlas database and return JSON responses at two specified endpoints. As the choice of programming language was left to the participants, I decided to use Ruby on Rails to familiarise myself with programming in Ruby. The API was to be containerised using Docker for validation and deployment. 
+<!--more-->
 
 This article will cover the steps I took to create the REST API and containerise it with Docker. The source code for the project can be found [on Github](https://github.com/shaunnope/csit-se-2023).
 

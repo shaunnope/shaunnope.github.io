@@ -7,6 +7,7 @@ tags: [fpga, design, project]
 ---
 
 Read more: [LinkedIn](https://www.linkedin.com/posts/zhan-hao-sean-yap_design-project-fpga-activity-6922552891056558080-Ayt3?utm_source=share)
+<!--more-->
 
 ---
 

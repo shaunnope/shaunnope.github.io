@@ -4,10 +4,17 @@ baseurl: "" # the subpath of your site, e.g. /blog
 domain: www.shaunnope.com
 url: https://www.shaunnope.com
 
+author:
+  name: Sean Yap
+
+show_excerpts: true
+excerpt_separator: <!--more-->
+
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 minima:
   # Generate social links in footer.
@@ -28,15 +35,28 @@ minima:
       title: email
       }
 
+sidebar:
+  - {
+    text: "No Leap Day",
+    url: "https://www.shaunnope.com/NoLeapDay"
+  }
+  - {
+    text: "Chain Reaction",
+    url: "https://www.shaunnope.com/ChainReaction"
+  }
 
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+
+lynxi:
+  - {
+    text: "Tellonym",
+    url: "https://tellonym.me/shaunnope"
+  }
+  - {
+    text: "Linktree",
+    url: "https://linktr.ee/shaunnope"
+  }
+  - {
+    text: "OnlyFriends",
+    url: "https://t.me/+jAnDRT69eS9lYWE1",
+    title: "Telegram"
+  }

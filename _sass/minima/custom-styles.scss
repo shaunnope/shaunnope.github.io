@@ -1,0 +1,52 @@
+.post-excerpt {
+    margin: 0 2em;
+    color: $brand-color;
+    font-size: $small-font-size;
+  }
+
+.btn-lynxi {
+  position: relative;
+  display: block;
+  background-color: #FFFFFF;
+  border: 0;
+  border-radius: .5rem;
+  box-sizing: border-box;
+  font-size: 1.5rem;
+  font-weight: 600;
+  padding: .75rem 1rem;
+  text-align: center;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-bottom: 0.5em;
+
+}
+
+.btn-lynxi:hover {
+  background-color: rgb(249,250,251);
+}
+
+.btn-lynxi:focus {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+
+.btn-lynxi:focus-visible {
+  box-shadow: none;
+}
+
+.container-lynxi {
+  width: 100%;
+  text-align: center;
+
+}
+
+.user-head {
+  padding: 1rem 0;
+}
+
+.img-profile {
+  border-radius: 30%;
+}
