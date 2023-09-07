@@ -8,7 +8,7 @@ permalink: /about/
 - [Bifrost AI](https://bifrost.ai) | AI Intern (Feb 2023 - May 2023)  
 Gained experience in various stages of Machine Learning Operations ([MLOps](https://en.wikipedia.org/wiki/MLOps)), including data collection, model training, and deployment. During my internship, I developed an internal tool for exploratory data analysis on image datasets that was subsequently integrated with the company's primary product. I also designed a performant model evaluation suite for object detection models that helped to quickly identify prominent failure cases of a model on multiple occasions, and outlined a roadmap towards a production-ready version of the project. 
 
-- [Singapore University of Technology and Design](https://sutd.edu.sg) | Undergraduate Teaching Assistant (Sep 2021 - Apr 2022)  
+- [SUTD](https://sutd.edu.sg "Singapore University of Technology and Design") | Undergraduate Teaching Assistant (Sep 2021 - Apr 2022)  
 I assisted faculty across multiple courses in facilitating cohort-based discussions, as well as addressing specific questions and concerns during lessons. Where required, I graded homework submissions and provided constructive feedback to students to enable effective learning.
 <br><br>
 Notable courses:
@@ -17,7 +17,8 @@ Notable courses:
   - [Modelling Space and Systems](https://smt.sutd.edu.sg/education/undergraduate/courses/10018-modelling-space-and-systems)
 
 ## Education
-- [Singapore University of Technology and Design](https://sutd.edu.sg) | Bachelor of Engineering (Computer Science and Design) (Sep 2020 - Apr 2024)
+- [SUTD](https://sutd.edu.sg "Singapore University of Technology and Design") | Bachelor of Engineering (Computer Science and Design) (Sep 2020 - Apr 2024)
+<br>
 - [Aalto University](https://aalto.fi) | Global Exchange Programme (Aug 2022 - Dec 2022)
 
 ## Projects
