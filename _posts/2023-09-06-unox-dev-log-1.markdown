@@ -9,6 +9,7 @@ Inspired by the [One Night Ultimate Series](https://beziergames.com/collections/
 
 After about three weeks of development, I have completed the first iteration of the game, implementing gameplay elements for the roles in the first game of the series, [One Night Ultimate Werewolf](https://beziergames.com/products/one-night-ultimate-werewolf).
 
+You can find the source code for the project [here](https://github.com/shaunnope/unoxwolf).
 
 ## Setup
 For this project, I decided to use the [grammY](https://grammy.dev/) to develop the bot, as it provides a simple interface for interacting with the Telegram Bot API. I also used TypeScript to develop the bot, as it provides static typing and other features that make development easier.
