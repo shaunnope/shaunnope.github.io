@@ -7,7 +7,7 @@
 .btn-lynxi {
   position: relative;
   display: block;
-  background-color: #FFFFFF;
+  background-color: $background-color;
   border: 0;
   border-radius: .5rem;
   box-sizing: border-box;
@@ -25,7 +25,7 @@
 }
 
 .btn-lynxi:hover {
-  background-color: rgb(249,250,251);
+  background-color: $code-background-color;
 }
 
 .btn-lynxi:focus {
