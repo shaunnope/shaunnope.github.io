@@ -7,6 +7,8 @@ tags: [telegram]
 ---
 Inspired by the [One Night Ultimate Series](https://beziergames.com/collections/one-night-ultimate-werewolf) by Ted Alspach and Akihisa Okui, I decided to create a Telegram bot that emulates the game's mechanics, allowing users to play the game using their phones. The game is a social deduction game, where players are assigned roles with different abilities, and have to deduce the identities of other players to win. 
 
+<!--more-->
+
 After about three weeks of development, I have completed the first iteration of the game, implementing gameplay elements for the roles in the first game of the series, [One Night Ultimate Werewolf](https://beziergames.com/products/one-night-ultimate-werewolf).
 
 You can find the source code for the project [here](https://github.com/shaunnope/unoxwolf).
