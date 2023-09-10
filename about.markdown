@@ -20,6 +20,7 @@ Notable courses:
 - [SUTD](https://sutd.edu.sg "Singapore University of Technology and Design") | Bachelor of Engineering (Computer Science and Design) (Sep 2020 - Apr 2024)
 <br>
 - [Aalto University](https://aalto.fi) | Global Exchange Programme (Aug 2022 - Dec 2022)
+<br>
 
 ## Projects
 - [InnSight](https://github.com/shaunnope/hotelier) | *HTML/CSS, JS, ExpressJS* (Jul 2022)  
