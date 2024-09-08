@@ -4,20 +4,24 @@ title: About
 permalink: /about/
 ---
 
-## Experiences
+## Experience
 - [Bifrost AI](https://bifrost.ai) | AI Intern (Feb 2023 - May 2023)  
 Gained experience in various stages of Machine Learning Operations ([MLOps](https://en.wikipedia.org/wiki/MLOps)), including data collection, model training, and deployment. During my internship, I developed an internal tool for exploratory data analysis on image datasets that was subsequently integrated with the company's primary product. I also designed a performant model evaluation suite for object detection models that helped to quickly identify prominent failure cases of a model on multiple occasions, and outlined a roadmap towards a production-ready version of the project. 
 
-- [SUTD](https://sutd.edu.sg "Singapore University of Technology and Design") | Undergraduate Teaching Assistant (Sep 2021 - Apr 2022)  
+- [SUTD](https://sutd.edu.sg "Singapore University of Technology and Design") | Undergraduate Teaching Assistant (Multiple semesters)  
 I assisted faculty across multiple courses in facilitating cohort-based discussions, as well as addressing specific questions and concerns during lessons. Where required, I graded homework submissions and provided constructive feedback to students to enable effective learning.
 <br><br>
 Notable courses:
-  - [Computational Thinking for Design](http://asd.courses.sutd.edu.sg/cdt/)
+  - [Algorithms](https://istd.sutd.edu.sg/undergraduate/courses/50004-algorithms)
+  - [Discrete Mathematics and Algorithm Design](https://istd.sutd.edu.sg/undergraduate/courses/50050-discrete-mathematics-and-algorithm-design)
+  - [Computational Thinking for Design](https://asd.sutd.edu.sg/architectural-intelligence/student-projects/computational-thinking-for-design)
   - [Modelling and Analysis](https://smt.sutd.edu.sg/education/undergraduate/courses/10013-modelling-and-analysis)
   - [Modelling Space and Systems](https://smt.sutd.edu.sg/education/undergraduate/courses/10018-modelling-space-and-systems)
 
 ## Education
-- [SUTD](https://sutd.edu.sg "Singapore University of Technology and Design") | Bachelor of Engineering (Computer Science and Design) (Sep 2020 - Apr 2024)
+- [SUTD](https://sutd.edu.sg "Singapore University of Technology and Design") (Sep 2020 - Apr 2024)
+  - Bachelor of Engineering (Computer Science and Design), Distinction with Highest Honours
+  - Minor in Artificial Intelligence
 <br>
 - [Aalto University](https://aalto.fi) | Global Exchange Programme (Aug 2022 - Dec 2022)
 <br>
