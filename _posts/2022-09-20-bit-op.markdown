@@ -11,4 +11,6 @@ Read more: [LinkedIn](https://www.linkedin.com/posts/zhan-hao-sean-yap_design-pr
 
 ---
 
-{% include embeds/bitop.html %}
+<div>
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6922552890142187520" height="644" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+</div>

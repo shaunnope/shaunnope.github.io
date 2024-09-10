@@ -1,0 +1,36 @@
+{%- capture period -%}
+{%- if include.expr.period -%}
+({{ include.expr.period }})
+{%- endif -%}
+{%- endcapture -%}
+
+{%- capture role -%}
+{%- if include.expr.role -%}
+| {{ include.expr.role }}
+{%- endif -%}
+{%- endcapture -%}
+
+<div class="card">
+  <h3 class="card-title">
+    {% if include.expr.link %}
+      {%- if include.expr.alt -%}
+      <a href="{{ include.expr.link | escape }}" title="{{ include.expr.alt | escape }}">
+      {% else %}
+      <a href="{{ include.expr.link | escape }}">
+      {% endif %}
+        {{ include.expr.title | escape }}
+      </a>
+    {% else %}
+      {{ include.expr.title | escape }}
+    {% endif %}
+    <span class="card-title-role">{{ role }}</span>
+    <span class="card-title-period">{{ period }}</span>
+  </h3>
+  <div class="card-tags">
+    {%- for tag in include.expr.tags -%}
+    <span class="card-tag">{{ tag }}</span>
+    {%- endfor -%}
+  </div>
+
+  {{ include.expr.content }}
+</div>
