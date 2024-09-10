@@ -1,8 +1,62 @@
-.post-excerpt {
-    margin: 0 2em;
+@import
+  "minima/overrides/layout"
+;
+
+h3.card-title {
+  @include relative-font-size(1.2);
+}
+
+.card-title {
+  margin-bottom: .2rem;
+  position: relative;
+
+  .card-title-role {
+    @include relative-font-size(1);
+    color: $brand-color;
+      // position: absolute;
+      // // right: 0;
+      // bottom: 0;
+  }
+
+  .card-title-period {
     color: $brand-color;
     font-size: $small-font-size;
+    position: absolute;
+    right: 0;
+    bottom: 0;
   }
+}
+
+.card-tags {
+  margin: 0 0 .75rem;
+}
+
+.card-tag {
+  @include relative-font-size(0.75);
+
+  background-color: $tag-background-color;
+  color: $tag-text-color;
+
+  display:inline-block;
+  min-width: 1rem;
+  text-align: center;
+
+  padding: .2rem .3rem;
+  margin: 0 .25rem;
+  border: 0;
+  border-radius: 1rem;
+}
+
+.card-tag:first-child {
+  margin-left: 0;
+}
+
+
+.post-excerpt {
+  margin: 0 2em;
+  color: $brand-color;
+  font-size: $small-font-size;
+}
 
 .btn-lynxi {
   position: relative;

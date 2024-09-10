@@ -1,0 +1,29 @@
+$lm-tag-background-color: $lm-brand-color-light;
+$lm-tag-text-color: $lm-brand-color;
+
+$dm-tag-background-color: $dm-brand-color-dark;
+$dm-tag-text-color: $dm-brand-color;
+
+$tag-background-color: $lm-tag-background-color !default;
+$tag-text-color: $lm-tag-text-color !default;
+
+@if $color-scheme-auto {
+  :root {
+    --tag-background-color: #{$lm-tag-background-color};
+    --tag-text-color: #{$lm-tag-text-color};
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --tag-background-color: #{$dm-tag-background-color};
+      --tag-text-color: #{$dm-tag-text-color};
+    }
+  }
+
+  $tag-background-color: var(--tag-background-color);
+  $tag-text-color: var(--tag-text-color);
+
+} @else if $color-scheme-dark {
+  $tag-background-color: $dm-tag-background-color;
+  $tag-text-color: $dm-tag-text-color;
+}
